@@ -15,7 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 216%; height: 0;"><iframe src="https://www.loom.com/embed/993e7a85572f4376ba816dfbf66b0c80?sid=2d600926-3c0b-4d6e-b30b-9839ece69bdc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/993e7a85572f4376ba816dfbf66b0c80">
+      <p>May 3, 2025 9:23:13 AM - Screenshot - 3 May 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/993e7a85572f4376ba816dfbf66b0c80">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/993e7a85572f4376ba816dfbf66b0c80-74fcaedddd373b4e-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 Favorite applications
