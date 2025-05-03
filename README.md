@@ -17,9 +17,6 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/993e7a85572f4376ba816dfbf66b0c80">
-      <p>May 3, 2025 9:23:13 AM - Screenshot - 3 May 2025 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/993e7a85572f4376ba816dfbf66b0c80">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/993e7a85572f4376ba816dfbf66b0c80-74fcaedddd373b4e-full-play.gif">
     </a>
   </div>
